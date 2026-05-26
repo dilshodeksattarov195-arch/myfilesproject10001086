@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartealculate",
+        "uuid": 2179602,
+        "checksum": "1nwugx"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
